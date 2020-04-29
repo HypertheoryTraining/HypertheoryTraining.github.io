@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Stuff for students of Jeff in Hypertheory Courses
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hypertheorytraining.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: @hypertheorydev
+twitter_username: hypertheorydev
 github_username: jeffrygonzalez
 
 # Build settings
