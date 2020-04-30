@@ -9,7 +9,7 @@ When you create a new DotNetCore Web API with Visual Studio 2019, and enable Doc
 
 To build, from the command prompt, the image, issue the `docker build` command from the parent directory (the directory containing the solution), passing the path to the `Dockerfile` as follows:
 
-```cmd
+{% highlight bash %}
 docker build -f ".\WebApplication1\Dockerfile" .
-```
+{% endhighlight %}
 
