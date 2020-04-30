@@ -13,3 +13,4 @@ To build, from the command prompt, the image, issue the `docker build` command f
 docker build -f ".\WebApplication1\Dockerfile" .
 {% endhighlight %}
 
+Hope this helps.
